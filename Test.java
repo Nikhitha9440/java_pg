@@ -38,7 +38,7 @@ public class Test {
         mul(x, y);
         div(x, y);
         System.out.println("ppppp");
-        System.out.println("hi this is pollscm");
+     
     }
 }
 
